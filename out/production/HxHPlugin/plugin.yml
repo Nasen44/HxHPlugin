@@ -1,0 +1,32 @@
+name: HxhUhc
+version: 1.0
+main: fr.nasen.hxh.Main
+commands:
+  hxh:
+    description: hxh command
+  gms:
+    description: gamemode survival
+  gmsp:
+    description: gamemode spectator
+  gmc:
+      description: gamemode creative
+  gma:
+    description: gamemode adventure
+  heal:
+    description: heal
+  fly:
+    description: heal
+  aimbot:
+    description: aimbot
+  feed:
+    description: feed.
+  enchants:
+    description: enchant
+  sethost:
+      description: sethost
+  saturation:
+    description: sethost
+  save:
+      description: sethost
+  setgroup:
+        description: set groupe
